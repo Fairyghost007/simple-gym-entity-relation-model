@@ -1,7 +1,7 @@
 # 🏋️ Gym Management System  
 
 ## Demo
-<img width="486" alt="Screen Shot 2024-11-16 at 18 45 44" src="https://github.com/user-attachments/assets/e4495ed4-dc29-4622-9f5e-8b52a684f85c">
+<img width="443" alt="Screen Shot 2024-11-16 at 19 02 50" src="https://github.com/user-attachments/assets/217b71c2-0757-4811-b56c-ec628d1e52ae">
 
 ## 🎯 **What You're Aiming For**  
 You’ve decided to join a popular gym chain, excited to begin your fitness journey. Upon arrival, you find the owner embroiled in a heated argument with a member over session registration.  
@@ -54,3 +54,6 @@ Based on the requirements above, create an **Entity-Relationship Model (ERM)** f
 - Ensure proper cardinality (e.g., one gym has many members, one session has up to 20 members, etc.).  
 
 ---
+ps1:added id for session and coach because they dont have unique identifier
+ps2:coul have add a association class for session and coach
+
